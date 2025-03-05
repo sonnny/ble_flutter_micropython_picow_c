@@ -9,7 +9,7 @@ for micropython ble esp32 and picow, install micropython and using Thonny deskto
 
 for picow ble, download git clone, cd to the directory, mkdir build, cd build, cmake .., make, load .uf2 file on the picow
 
-
+for flutter if using linux desktop using linux lite,
 
 
 template for:

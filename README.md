@@ -28,4 +28,8 @@ flutter:
 
      ble_screen.dart
 
+     anroid/app/src/main/AndroidManifest.xml
+
+     
+
      

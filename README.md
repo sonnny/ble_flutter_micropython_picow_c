@@ -9,7 +9,11 @@ for micropython ble esp32 and picow, install micropython and using Thonny deskto
 
 for picow ble, download git clone, cd to the directory, mkdir build, cd build, cmake .., make, load .uf2 file on the picow
 
-for flutter if using linux desktop using linux lite,
+for flutter if using linux desktop using linux lite, goto settings and click on Bluetooth Managers, make sure the device is not listed, if listed
+right click on the device then remove, run the flutter, make sure the device is listed in the device.dart.
+
+for flutter running on android app, after installing on the android phone, goto settings, app then click on the app name, click on permission, then give
+  location permission.
 
 
 template for:

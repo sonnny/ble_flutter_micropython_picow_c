@@ -13,7 +13,12 @@ for flutter if using linux desktop using linux lite, goto settings and click on 
 right click on the device then remove, run the flutter, make sure the device is listed in the device.dart.
 
 for flutter running on android app, after installing on the android phone, goto settings, app then click on the app name, click on permission, then give
-  location permission.
+  location permission, make sure the device is listed in the device.dart.
+
+on flutter desktop no location permission necessary to grant to the app.
+
+part of AndroidManifest.xml
+
 
 
 template for:

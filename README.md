@@ -5,7 +5,7 @@ template for picow bluetooth c program
 
 template for flutter bluetooth runs on android app and laptop linux
 
-
+for micropython ble esp32 and picow, install micropython and on Thonny desktop add ble_uart.py and 
 
 
 template for:

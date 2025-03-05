@@ -1,6 +1,8 @@
 
 template for micropython bluetooth esp32 and picow
+
 template for picow bluetooth c program
+
 template for flutter bluetooth runs on android app and laptop linux
 
 
